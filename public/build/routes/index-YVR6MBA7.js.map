@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/index.jsx"],
+  "sourcesContent": ["function Home() {\n  return (\n    <div>\n      <h1>Welcome to Remix!</h1>\n      <p>\n        Holy smokes you're here! Let's do this. Welcome to the v1 stable release of Remix! Just so we're all clear, this is newly open sourced, so stable means \"the API is stable\", it doesn\u2019t mean we don't have any bugs \uD83D\uDE05 (though, we think we're doing alright). Let us know if you think you found one on GitHub.\n\n        Getting Started\n      </p>\n    </div>\n  )\n}\n\nexport default Home"],
+  "mappings": ";;;;;;AAAA;AAAA,SAAS,OAAO;AACd,SACE,mDAAC;AAAA,IACC;AAAA,yDAAC;AAAA,QAAG;AAAA,SAAJ;AAAA;AAAA;AAAA;AAAA,aAAqB;AAAA,MACrB,mDAAC;AAAA,QAAE;AAAA,SAAH;AAAA;AAAA;AAAA;AAAA,aAIA;AAAA;AAAA,KANF;AAAA;AAAA;AAAA;AAAA,SAOA;AAEJ;AAEA,IAAO,iBAAQ;",
+  "names": []
+}
